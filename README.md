@@ -1,8 +1,7 @@
+ HEAD
 # 💼 Vemu Anusha - Developer Portfolio
 
 A modern and responsive developer portfolio website built using **React.js**, **Tailwind CSS**, **Framer Motion**, and **Vite**.
-
----
 
 # 🚀 Features
 
@@ -20,8 +19,6 @@ A modern and responsive developer portfolio website built using **React.js**, **
 ✅ Resume Download Button  
 ✅ GitHub & LinkedIn Integration
 
----
-
 # 🛠️ Tech Stack
 
 - React.js
@@ -31,11 +28,8 @@ A modern and responsive developer portfolio website built using **React.js**, **
 - Lucide React
 - Typewriter Effect
 
----
-
 # 📂 Folder Structure
-
-```bash
+bash
 src/
 │
 ├── assets/
@@ -55,137 +49,105 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-```
-
----
 
 # ⚙️ Installation
 
 ## 1️⃣ Clone Repository
 
-```bash
 git clone https://github.com/vemuanusha/your-portfolio-repo.git
-```
-
----
 
 ## 2️⃣ Open Project
 
-```bash
-cd vemu-anusha-portfolio
-```
 
----
+cd vemu-anusha-portfolio
+
 
 ## 3️⃣ Install Dependencies
 
-```bash
-npm install
-```
 
----
+npm install
 
 ## 4️⃣ Install Typewriter Package
 
-```bash
 npm install typewriter-effect
-```
-
----
 
 ## 5️⃣ Run Development Server
 
-```bash
 npm run dev
-```
 
----
 
 # 🌐 Live Preview
 
 After running:
 
-```bash
+
 npm run dev
-```
+
 
 Open:
 
-```bash
-http://localhost:5173
-```
 
----
+http://localhost:5173
+
 
 # 📸 Add Your Image
 
 Place your image inside:
 
-```bash
+bash
 src/assets/
-```
+
 
 Example:
 
-```bash
+bash
 img2.jpeg
-```
 
 Then import:
 
-```jsx
+jsx
 import profilePic from "../assets/img2.jpeg";
-```
 
----
 
 # 📄 Add Resume
 
 Place your resume inside:
-
-```bash
+bash
 src/assets/
-```
 
 Example:
-
-```bash
+bash
 ANUSHA.pdf
-```
 
 Import:
 
-```jsx
+jsx
 import resumeFile from "../assets/resume.pdf";
-```
-
----
 
 # 🔗 Update Social Links
 
 Update inside:
 
-```bash
+bash
 src/components/Hero.jsx
-```
 
 and
 
-```bash
+bash
 src/components/Contact.jsx
-```
+
 
 Example:
 
-```jsx
+jsx
 href="https://github.com/vemuanusha"
-```
 
-```jsx
+
+jsx
 href="https://linkedin.com/in/anusha-vemu-639213291"
-```
 
----
+
+
 
 # 📌 Projects Included
 
@@ -204,7 +166,7 @@ href="https://linkedin.com/in/anusha-vemu-639213291"
 - MySQL
 - OOPS
 
----
+
 
 # 🎨 UI Features
 
@@ -214,7 +176,7 @@ href="https://linkedin.com/in/anusha-vemu-639213291"
 - Modern typography
 - Mobile responsive layout
 
----
+
 
 # 👩‍💻 Developer
 
@@ -227,8 +189,10 @@ https://github.com/vemuanusha
 LinkedIn:
 https://linkedin.com/in/anusha-vemu-639213291
 
----
 
 # 📜 License
 
 This project is open-source and free to use.
+
+# vemu-anusha-portfolio
+
