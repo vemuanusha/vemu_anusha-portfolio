@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
 # 💼 Vemu Anusha - Developer Portfolio
 
@@ -197,3 +198,6 @@ This project is open-source and free to use.
 
 # vemu-anusha-portfolio
 
+=======
+# vemu_anusha-portfolio
+>>>>>>> 150a2c383305964b7e50ff96ada9e0195a229d36
