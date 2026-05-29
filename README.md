@@ -33,7 +33,7 @@ bash
 src/
 │
 ├── assets/
-│   ├── img2.jpeg
+│   ├── img2.png
 │   └── ANUSHA.pdf
 │
 ├── components/
@@ -102,12 +102,12 @@ src/assets/
 Example:
 
 bash
-img2.jpeg
+img2.png
 
 Then import:
 
 jsx
-import profilePic from "../assets/img2.jpeg";
+import profilePic from "../assets/img2.png";
 
 
 # 📄 Add Resume
