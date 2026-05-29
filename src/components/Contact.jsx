@@ -63,9 +63,9 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="py-14 px-6 bg-[#071225] text-white"
+      className="py-24 px-6 bg-[#071225] text-white"
     >
-      <div className="max-w-5xl mx-auto grid lg:grid-cols-2 gap-10">
+      <div className="max-w-6xl mx-auto grid lg:grid-cols-2 gap-10">
 
         {/* LEFT */}
         <motion.div

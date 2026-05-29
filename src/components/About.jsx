@@ -23,9 +23,9 @@ const About = () => {
   return (
     <section
       id="about"
-      className="py-16 px-6 bg-[#071225] text-white"
+      className="py-24 px-6 bg-[#071225] text-white"
     >
-      <div className="max-w-5xl mx-auto">
+      <div className="max-w-6xl mx-auto">
 
         {/* TOP TITLE */}
         <p className="text-blue-500 uppercase tracking-[4px] font-semibold mb-4">
@@ -52,7 +52,7 @@ const About = () => {
             }}
           >
 
-            <p className="text-gray-400 text-base leading-8">
+            <p className="text-gray-500 text-base leading-8">
               I am a passionate full-stack developer currently pursuing{" "}
               <span className="text-white font-semibold">
                 B.Tech in Computer Science Engineering
@@ -144,7 +144,7 @@ const About = () => {
 
           className="
             mt-8
-            max-w-4xl
+            max-w-6xl
             bg-[#111c34]
             border border-white/10
             rounded-2xl

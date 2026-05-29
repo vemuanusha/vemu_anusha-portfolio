@@ -45,6 +45,7 @@ src/
 │   ├── Projects.jsx
 │   ├── Certifications.jsx
 │   └── Contact.jsx
+|    
 │
 ├── App.jsx
 ├── main.jsx

@@ -35,9 +35,9 @@ const Certifications = () => {
   return (
     <section
       id="certifications"
-      className="py-14 px-6 bg-[#071225] text-white"
+      className="py-28 px-6 bg-[#071225] text-white"
     >
-      <div className="max-w-5xl mx-auto">
+      <div className="max-w-6xl mx-auto">
 
         {/* TOP TEXT */}
         <p className="text-blue-500 uppercase tracking-[4px] font-semibold mb-4">
