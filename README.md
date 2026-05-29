@@ -1,5 +1,4 @@
-<<<<<<< HEAD
- HEAD
+
 # 💼 Vemu Anusha - Developer Portfolio
 
 A modern and responsive developer portfolio website built using **React.js**, **Tailwind CSS**, **Framer Motion**, and **Vite**.
